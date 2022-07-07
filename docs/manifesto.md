@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Manifesto
 
+:::danger Work in Progress
+
+The Manifesto is still being created. Join the community to contribute.
+
+:::
+
 The internet democratized access to information and communication at a scale previously unseen, but at a cost. Power concentrated to a few megacorporations who host all the cloud infrastructure, own all our data and control what we see. An Orwellian surveillance state looms that milks our attention for profits, while maintaining control through coercion. The centralization of authority leads to the loss of individual autonomy.
 
 The people have become willing citizens of Google, Facebook, Amazon and Twitter. They control what is seen, heard and said. 
