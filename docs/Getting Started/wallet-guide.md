@@ -14,7 +14,23 @@ Many prefer to use as few wallets as possible. This section explains how one can
 
 The address used as the ΣID must received funds mixed with **[Ergo Mixer](https://github.com/ergoMixer/ergoMixBack/releases)**. Care must be taken to prevent transactions between other wallet addresses from interacting with the ΣID address. 
 
-*Guides to wallets that can currently be used to hold multiple addresses, including the ΣID: Satergo (node wallet), Ergo Wallet, (mobile), Aneta Wallet (mobile), SAFEW (browser extention). Inbuilt wallet transaction mechanics make the Nautilus wallet (browser extention) a poor option multi-purpose use with ErgoNation and the ΣID address*
+:::tip Supported wallets
+
+- Satergo (node wallet)
+- Ergo Wallet (mobile)
+- Aneta Wallet (mobile)
+- SAFEW (browser extention).
+
+:::
+
+:::danger Unsupported wallets
+
+The **Nautilus wallet (browser extention)** has inbuilt wallet transaction mechanics that make it a poor option for use as a multi-purpose wallet with Ergonation and the ΣID address.
+
+:::
+
+
+*Below are guides to wallets that can currently be used to hold multiple addresses, including the ΣID: *
 
 ### Satergo Wallet (Node)
 
