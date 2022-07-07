@@ -93,11 +93,11 @@ const config = {
               },
               {
                 label: 'Event Framework',
-                to: '/docs/Getting Started/Event-Frameworko',
+                to: '/docs/Getting Started/Event-Framework',
               },
               {
                 label: 'Use Cases',
-                to: '/docs/Getting Started/use-cases-and-reputationo',
+                to: '/docs/Getting Started/use-cases-and-reputation',
               },
               {
                 label: 'Wallet Guide',
