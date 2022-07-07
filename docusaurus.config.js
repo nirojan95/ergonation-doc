@@ -131,6 +131,10 @@ const config = {
             title: 'More',
             items: [
               {
+                label: 'ErgoNation Website',
+                href: 'https://ergonation.org/',
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/nirojan95/ergonation-docs',
               },
